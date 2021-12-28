@@ -68,6 +68,8 @@ class LocationDetailViewController: UIViewController, UITableViewDataSource, UIT
     required init?(coder: NSCoder) {
         super.init(coder: coder)
         fatalError("init(coder:) has not been implemented")
+        
+        
     }
     
     func numberOfSections(in tableView: UITableView) -> Int {
