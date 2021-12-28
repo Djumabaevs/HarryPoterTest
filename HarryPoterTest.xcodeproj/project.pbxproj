@@ -101,6 +101,9 @@
 		348C9D4F277AC67C00B64736 /* HarryPoterTest */ = {
 			isa = PBXGroup;
 			children = (
+				348C9D85277AC6A900B64736 /* models */,
+				348C9D84277AC69D00B64736 /* cells */,
+				348C9D83277AC69000B64736 /* controllers */,
 				348C9D50277AC67C00B64736 /* AppDelegate.swift */,
 				348C9D52277AC67C00B64736 /* SceneDelegate.swift */,
 				348C9D54277AC67C00B64736 /* ViewController.swift */,
@@ -128,6 +131,27 @@
 				348C9D76277AC67E00B64736 /* HarryPoterTestUITestsLaunchTests.swift */,
 			);
 			path = HarryPoterTestUITests;
+			sourceTree = "<group>";
+		};
+		348C9D83277AC69000B64736 /* controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = controllers;
+			sourceTree = "<group>";
+		};
+		348C9D84277AC69D00B64736 /* cells */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = cells;
+			sourceTree = "<group>";
+		};
+		348C9D85277AC6A900B64736 /* models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
